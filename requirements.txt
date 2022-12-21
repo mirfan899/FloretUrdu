@@ -9,3 +9,4 @@ more-itertools>=8.8.0
 
 # Tested with v1.18.3, earlier versions may also work.
 datasets>=1.18.0
+spacy
